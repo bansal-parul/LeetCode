@@ -1,0 +1,10 @@
+class Solution:
+    def jump(self, nums: List[int]) -> int:
+        total = 0
+        while len(nums) > 1:
+            for i in range(len(nums)):
+                if (i + nums[i]) >= (len(nums) - 1):
+                    break
+            total = total + 1
+            nums = nums[:i+1]
+        return total
