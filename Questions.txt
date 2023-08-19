@@ -1,2 +1,10 @@
 Valid-Square : https://leetcode.com/problems/valid-square/
 Coin-Change : https://leetcode.com/problems/coin-change/
+Count Binary Substrings : https://leetcode.com/problems/count-binary-substrings/
+Candy : https://leetcode.com/problems/candy/
+Gas Station : https://leetcode.com/problems/gas-station/
+Product of Array Except Self : https://leetcode.com/problems/product-of-array-except-self/
+H-Index : https://leetcode.com/problems/h-index/
+Jump Game II : https://leetcode.com/problems/jump-game-ii/
+Jump Game : https://leetcode.com/problems/jump-game/
+Best time to buy and sell stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
