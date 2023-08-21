@@ -8,3 +8,6 @@ H-Index : https://leetcode.com/problems/h-index/
 Jump Game II : https://leetcode.com/problems/jump-game-ii/
 Jump Game : https://leetcode.com/problems/jump-game/
 Best time to buy and sell stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Rotate Array : https://leetcode.com/problems/rotate-array/
+Majority Element : https://leetcode.com/problems/majority-element/
+Remove Duplicated from sorted array II : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
